@@ -18,6 +18,7 @@ Search that checks Shannon Entropy of username field to check if a password has 
 
 ##### Use case
 * Identify passwords that are no longer secure.
+
 ##### Actions
 * Notify user/manager
 * Disable user
