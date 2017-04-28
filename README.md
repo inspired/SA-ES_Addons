@@ -1,5 +1,5 @@
-# SA-Datametrix_ES_Addons
-Datametrix ES Add-ons
+# SA-ES_Addons
+ES Add-ons
 
 ## Contents
 ### Correlation searches
