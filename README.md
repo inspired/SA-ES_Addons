@@ -27,7 +27,7 @@ Search that triggers if physical access has been denied more than 5 times for us
 Search that checks Shannon Entropy of username field to check if a password has been entered by mistake, and maps this to the next user that logged in from the same source to the same destination.
 
 ##### Use case
-* Identify passwords that are no longer secure. This is potentially an effective password sniffer. Use it wisely
+* Identify passwords that are no longer secure. This is effectively a password sniffer. Use it sanely.
 
 ##### Actions
 * Notify user/manager
